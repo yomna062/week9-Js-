@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 button:hover{
     background: green !important;
 
 }
 button{
     width: 220px;
+=======
+button:hover{
+    background: green !important;
+
+}
+button{
+    width: 220px;
+>>>>>>> fac7587a599603e0dfba2b663714367df0c95644
 }
